@@ -15,4 +15,4 @@ Los donantes, por orden cronológico:
 ### Aspiraciones (objetivo de las donaciones)
 
 - Adquirir licencia de desarrollo para la plataforma iOS.
-- Contratar alojamiento web con (ETECSA)[https://www.etecsa.cu]
+- Contratar alojamiento web con [ETECSA](https://www.etecsa.cu)
