@@ -6,7 +6,7 @@ Creamos aplicaciones para todas las plataformas para consultar la información d
 
 ## Colaboradores
 
-Cuba Weather es un proyecto de código abierto y sin ánimo de lucro, pero que necesita de colaboraciones para poder desarrollarse
+Cuba Weather es un proyecto de código abierto y sin ánimo de lucro, **que necesita de colaboraciones** para poder desarrollarse
 
 - [BacheCubano](https://twitter.com/BacheCubano): $ 10.00 CUC
 
