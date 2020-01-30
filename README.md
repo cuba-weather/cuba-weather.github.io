@@ -1,18 +1,7 @@
 # Cuba Weather
 
-![Cuba Weather Banner](images/banner.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
-Creamos aplicaciones para todas las plataformas para consultar la información del clima de Cuba utilizando solamente la navegación en la red cubana.
+Web page of presentation of the Cuba Weather project.
 
-## Colaboradores
-
-Cuba Weather es un proyecto de código abierto y sin ánimo de lucro, **que necesita de colaboraciones** para poder expandirse. 
-
-Los donantes, por orden cronológico:
-
-- [BacheCubano](https://twitter.com/BacheCubano): $ 10.00 CUC
-
-### Aspiraciones (objetivo de las donaciones)
-
-- Adquirir licencia de desarrollo para la plataforma iOS.
-- Contratar alojamiento web con [ETECSA](https://www.etecsa.cu)
+Link: [cuba-weather.github.io](https://cuba-weather.github.io)
