@@ -1,5 +1,7 @@
 # Cuba Weather
 
-![Cuba Weather Banner](images/banner.png)
+[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
 
-Cuba Weather es un proyecto sin animo de lucro cuyo objetivo es crear aplicaciones para todas las plataformas que utilizando navegación nacional cubana se pueda consultar la información del clima de Cuba.
+Website of Cuba Weather project.
+
+Link: [cuba-weather.github.io](https://cuba-weather.github.io)
