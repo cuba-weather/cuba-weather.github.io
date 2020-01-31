@@ -4,4 +4,4 @@
 
 Web page of presentation of the Cuba Weather project.
 
-Link: [cuba-weather.github.io](https://cuba-weather.github.io)
+Link: [cubaweather.app](https://cubaweather.app)
