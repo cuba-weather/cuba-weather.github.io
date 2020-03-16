@@ -1,6 +1,6 @@
 # Cuba Weather
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/github/license/cuba-weather/cuba-weather.github.io?color=brightgreen&label=License)](https://opensource.org/licenses/GPL-3.0)
 
 Web page of presentation of the Cuba Weather project.
 
