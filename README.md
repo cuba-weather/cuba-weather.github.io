@@ -5,4 +5,3 @@
 Web page of presentation of the Cuba Weather project.
 
 Link: [cubaweather.app](https://cubaweather.app)
-1
